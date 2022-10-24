@@ -1,3 +1,8 @@
+ //File Name: books.js
+//Author Name: Eva Fan 
+//Student ID: 301238820
+//Web App Name: MidTerm Project - the Favourite Book List App 
+
 // define the book model
 import booksModel from '../models/books.js';
 
